@@ -7,3 +7,10 @@ Haven't code for a while, perhaps for a year. Trying to start over again. I was 
 - Revise OOP and DSM
 - Color Project
 - Made 3D sphere render project. Reference video: https://www.youtube.com/watch?v=IrWtw9ehB2g&list=WL&index=4
+
+09-13-2025
+- Reading git docs
+- Successfully refunded approx. 130$ from Adobe
+
+
+
