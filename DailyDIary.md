@@ -10,7 +10,6 @@ Haven't code for a while, perhaps for a year. Trying to start over again. I was 
 
 09-13-2025
 - Reading git docs
-- Successfully refunded approx. 130$ from Adobe
+- Successfully completed refunding approx. 130$ from Adobe
 
-
-
+09-14-2025
