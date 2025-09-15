@@ -13,3 +13,6 @@ Haven't code for a while, perhaps for a year. Trying to start over again. I was 
 - Successfully completed refunding approx. 130$ from Adobe
 
 09-14-2025
+- Dealing random IRL problems.
+
+09-15-2025
