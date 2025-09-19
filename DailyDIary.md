@@ -2,10 +2,10 @@
 
 09-12-2025
 Haven't code for a while, perhaps for a year. Trying to start over again. I was intermediate Java developer.
-50% read - Head First Java, 3rd Edition: Kathy Sierra, Bert Bates, Trisha Gee
+- 50% read; Head First Java, 3rd Edition: Kathy Sierra, Bert Bates, Trisha Gee
 - Revise OOP and DSM, in a very light depth.
-- Made 3D sphere render project
-  Reference video: https://www.youtube.com/watch?v=IrWtw9ehB2g&list=WL&index=4
+- Made 3D sphere render project<br>
+  Reference video: https://www.youtube.com/watch?v=IrWtw9ehB2g&list=WL&index=4<br>
   Repository Link: https://github.com/swimicide-web/3D-Sphere-Render
 
 09-13-2025
@@ -13,8 +13,7 @@ Haven't code for a while, perhaps for a year. Trying to start over again. I was 
 - Successfully completed refunding approx. 130$ from Adobe
 
 09-16-2025
-- Completed reading Java 17 Quick Syntax Reference: A Pocket Guide to the Java SE Language, APIs, and Library: Mikael Olsson
-  Not reading head first Java
+- 100% read; Java 17 Quick Syntax Reference: A Pocket Guide to the Java SE Language, APIs, and Library: Mikael Olsson<br>Not reading head first Java. Too long.
 - Started ColorShade project.
 - Revising Web Crawling, after a year. Tried to use jsoup library: https://jsoup.org/cookbook/introduction/parsing-a-document
 
