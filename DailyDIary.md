@@ -21,5 +21,9 @@ Haven't code for a while, perhaps for a year. Trying to start over again. I was 
 - Had a hard time to decide whether AI or tutorial to use. Just figured out that it really doesn't matter. What matters is my skill, not learning method. I just have to make things rapidly and preciously, constantly. My portfolio has nothing at this moment. It's harsh fact.
 - However, I do realize after this moment; I only learn lightweighted knowledge from AI, but deep depth of knowledge with tutorial and books(Obviously, but good enough to made me overthink). Have to be careful about tutorial hell and book hell, but I have previously experienced all of those before. I know what's going on, with revising.
 - I feel nervous. That's for sure. If I don't success, then I may lose everyone. I must success. This makes conclusion about that I do not have much time to use for accomplishing my plan. However, even I feel nervous, I should approach things with acquiring deep-depth direction to not dependent and rely on different objects. So the abstract directions I have to follow are: Fast, Precise, Deep-Depth & High Density, Independent
-- Bought sirrus 4.0 bicycle. Costs about approx. 750$. Progress on my Color Project? Maybe.. 30%? Making it public tomorrow. College starts in September 22nd, and I learn things that are not coding-related. I have to prepare with continue making projects.
+- Bought sirrus 4.0 bicycle. Costs about approx. 750$.
+- Progress on my Color Project? Maybe.. 30%?
 
+09-22-2025
+- College started today. Feels weird.<br>Color Project is still on work in progress, heavily unfinished
+- I really have to quit overthinking and just do it already. My portfolio is empty. I have approx. 430 days.
