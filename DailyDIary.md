@@ -1,7 +1,7 @@
 # DailyLogs
-
-09-12-2025<br>
-Haven't code for a while, from June to August. Trying to start over again. I was intermediate Java developer.
+Haven't code for a while, from June to August. Trying to start over again. I was intermediate Java developer. <br>Rather than making projects, I focused on solving Coding Test Practices.<br>
+Last project I worked on was about implementing Tetris in Minecraft. Abandoned for now.<br>
+<br>09-12-2025<br>
 - 50% read; Head First Java, 3rd Edition: Kathy Sierra, Bert Bates, Trisha Gee
 - Revise OOP and DSM, in a very light depth.
 - Made 3D sphere render project<br>
@@ -29,5 +29,9 @@ Haven't code for a while, from June to August. Trying to start over again. I was
 - I really have to quit overthinking and just do it already. My portfolio is empty. I have approx. 430 days.
 
 09-23-2025
-- midass programmer
-- 80%, perhaps
+- midas' programmer
+- 40%, perhaps
+
+09-24-2025
+- learning english grammar today. Delaying colorShade for a little bit
+- I'll change the meaningful of this note in future. Leaving an actual logs of each project, not some diary.
