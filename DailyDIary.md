@@ -27,3 +27,7 @@ Haven't code for a while, perhaps for a year. Trying to start over again. I was 
 09-22-2025
 - College started today. Feels weird.<br>Color Project is still on work in progress, heavily unfinished
 - I really have to quit overthinking and just do it already. My portfolio is empty. I have approx. 430 days.
+
+09-23-2025
+- midass programmer
+- 80%, perhaps
