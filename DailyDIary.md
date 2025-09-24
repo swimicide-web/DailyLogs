@@ -1,6 +1,6 @@
 # DailyLogs
 
-09-12-2025
+09-12-2025<br>
 Haven't code for a while, perhaps for a year. Trying to start over again. I was intermediate Java developer.
 - 50% read; Head First Java, 3rd Edition: Kathy Sierra, Bert Bates, Trisha Gee
 - Revise OOP and DSM, in a very light depth.
